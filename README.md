@@ -16,6 +16,6 @@ In this project we apply the concepts of (gathering, access, and cleaning) the d
 
 All the wrangling is done in `wrangle_act.ipynb` notebook with some simple analysis and visualisation.
 
-If you aren't experienced with Jupyter Notebooks or don't know how to render the file you can use the `html` version of it in `wrangle_act.html`
+If you aren't experienced with Jupyter Notebooks or don't know how to render the file you can use the `html` version of it in `wrangle_act.html` Make sure to download the files locally before opening them in a browser. 
 
 not all the data is cleaned of course but some are I would like just to show examples of wrangling steps.
